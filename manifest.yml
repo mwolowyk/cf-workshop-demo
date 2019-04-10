@@ -1,3 +1,5 @@
 ---
 applications:
   - name: michaels-java-app
+    routes:
+      - route: michaels-java-app.springernature.app
